@@ -1,0 +1,51 @@
+#contenedor{
+    background-color:lawngreen;
+    height: 600px;
+    width: 800px;
+}
+
+#menu{
+    background-color:magenta;
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+}
+
+#contenido{
+    background-color:lightskyblue;
+    height: 750px;
+    width: 850px;
+    display: inline-block;
+}
+
+#perfil{
+    background-color:blanchedalmond;
+    height: 295px;
+    width: 250px;
+}
+
+#opciones{
+    background-color:brown;
+    height: 295px;
+    width: 400px;
+}
+
+#configuración{
+    background-color:cadetblue;
+    height: 295px;
+    width: 100px;
+}
+
+#foto{
+background-color: aqua;
+width: 150px;
+height: 250px;
+display: inline-block;
+}
+
+#datos-usuario{
+  background-color: blue;
+width: 100px;
+height: 20px;
+display: inline-block;  
+}
